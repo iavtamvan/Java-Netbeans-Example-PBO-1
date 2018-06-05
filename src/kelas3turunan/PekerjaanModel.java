@@ -22,9 +22,9 @@ public class PekerjaanModel {
     
     public void viewPekerjaan(){
          System.err.println("Nama Pekerjaan : " + this.namaPekerjaan);
-         System.err.println("Jenis Pekerjaan : " + this.namaPekerjaan);
-         System.err.println("Awal Masuk Pekerjaan : " + this.namaPekerjaan);
-         System.err.println("Periode Pekerjaan : " + this.namaPekerjaan);
-         System.err.println("Bagian Pekerjaan : " + this.namaPekerjaan);
+         System.err.println("Jenis Pekerjaan : " + this.jenisPekerjaan);
+         System.err.println("Awal Masuk Pekerjaan : " + this.awalMasuk);
+         System.err.println("Periode Pekerjaan : " + this.periode);
+         System.err.println("Bagian Pekerjaan : " + this.bagian);
     }
 }
